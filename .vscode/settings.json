@@ -1,8 +1,0 @@
-{
-    "editor.formatOnSave": true,
-    "editor.guides.bracketPairs": true,
-    "editor.mouseWheelZoom": true,
-    "editor.showDeprecated": false,
-    "editor.renderWhitespace": "all",
-    "editor.formatOnType": true
-}
